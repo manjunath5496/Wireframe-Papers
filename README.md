@@ -22,4 +22,6 @@ Detector</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Wireframe-Papers/blob/master/w(10).pdf" style="text-decoration:none;">Fully Convolutional Line Parsing </a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Wireframe-Papers/blob/master/w(11).pdf" style="text-decoration:none;">PPGNet: Learning Point-Pair Graph for Line Segment Detection</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Wireframe-Papers/blob/master/w(12).pdf" style="text-decoration:none;">Learning Attraction Field Representation for Robust Line Segment Detection</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Wireframe-Papers/blob/master/w(13).pdf" style="text-decoration:none;">GUI Generation from Wireframes</a></li>  
+  
 </ul>
